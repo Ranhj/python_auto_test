@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/auto_test.iml" filepath="$PROJECT_DIR$/.idea/auto_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonStudy/.idea/pythonStudy.iml" filepath="$PROJECT_DIR$/../pythonStudy/.idea/pythonStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_reptile/.idea/python_reptile.iml" filepath="$PROJECT_DIR$/../python_reptile/.idea/python_reptile.iml" />
+    </modules>
+  </component>
+</project>
