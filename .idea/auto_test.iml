@@ -6,6 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="pythonStudy" />
     <orderEntry type="module" module-name="python_reptile" />
+    <orderEntry type="module" module-name="PythonStudyDemo" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="pytest" />
